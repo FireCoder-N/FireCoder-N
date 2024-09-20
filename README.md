@@ -53,7 +53,7 @@ Yeah, it’s a pretty packed schedule, but that’s how I like it! If it's creat
 - 🧠 Logic and puzzles are my jam — call me a *logician* in disguise. 
 - 🐲 I geek out over D&D, (puzzle) games, and other stuff.
 - ⚙ AI, cybersecurity, game dev, and web dev, electronics, animation? I want it *all*.
-- 🎂 My birthday is 21/7.
+- 🎂 My birthday is on 21/7.
 - 🎓 I love constantly learning, exploring and experimenting.
  
 
