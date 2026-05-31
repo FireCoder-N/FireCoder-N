@@ -20,12 +20,14 @@ Here are some ideas to get you started:
   
   # Hey there!👋 I'm **Nestoras** a.k.a. FireCoder-N 🔥👨‍💻 
 
-  **Undergraduate Electrical & Computer Engineering Student**  
-  AI | Game Dev | Cybersecurity | Web Dev | DIY Enthusiast | 
+  **Electrical & Computer Engineer**  
+  Game Dev **・** XR **・** Web Dev **・** Cybersecurity **・** AI **・** DIY Enthusiast
 
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
@@ -34,13 +36,13 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 About Me
-I'm a tech-loving undergraduate Electrical & Computer Engineering student (23M) with a broad spectrum of interests. Whether it's AI, machine learning, game/web dev , animating, computer vision, electronics tinkering building my homelab or exploring cybersecurity challenges, I tend to bounce from one passion to the next, always eager to learn more.
+I'm a tech-loving Electrical & Computer Engineering student (25M) with a broad spectrum of interests. Whether it's AI, machine learning, game/web dev, animating, computer vision, electronics tinkering, building my homelab or exploring cybersecurity challenges, I tend to bounce from one passion to the next, always eager to learn more.
 
 ### 🛠️ Tech & Tools I Play With:
-- **Languages**: Python, C++ (plus some dips into many more, thanks to uni 🧠)
+- **Languages**: Python, C++, C# (plus some dips into many more, thanks to uni 🧠)
 - **Frameworks & Libraries**: PyTorch, TensorFlow, FastAPI, NiceGUI, OpenCV and more
-- **Tools & IDEs**: VS Code *(for the win ✌)*, Unreal Engine, Blender  
-- **Other Technologies**: Docker, Arduino, HackTheBox, TryHackMe
+- **Tools & IDEs**: VS Code *(for the win ✌)*, Unreal Engine, Unity, Blender, DaVinciResolve
+- **Other Technologies**: Docker, Arduino, Obsidian, HackTheBox, TryHackMe
 
 ---
 
@@ -53,16 +55,23 @@ Yeah, it’s a pretty packed schedule, but that’s how I like it! If it's creat
 - 🧠 Logic and puzzles are my jam — call me a *logician* in disguise. 
 - 🐲 I geek out over D&D, (puzzle) games, and other stuff.
 - ⚙ AI, cybersecurity, game dev, and web dev, electronics, animation? I want it *all*.
+- 💻 I am currently working as a junior developer at [Realiscape](https://realiscape.ch/).
 - 🎂 My birthday is on 21/7.
 - 🎓 I love constantly learning, exploring and experimenting.
  
 
 ---
+## 📊 GitHub Dashboard
 
-### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FireCoder-N&show_icons=true&theme=radical" alt="Nestoras' GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireCoder-N&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <!-- MAIN STATS HEADER CARD -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FireCoder-N&show_icons=true&hide_border=false&bg_color=151515&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <br/>
+  <!-- SECONDARY METRICS ROW -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireCoder-N&theme=dark&hide_border=false&ring=ff917f&dates=ff917f" />
+  <br/>
+  <!-- LANGUAGES AS A FOOTER PANEL -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FireCoder-N&layout=compact&hide_border=flase&bg_color=151515&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
